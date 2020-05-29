@@ -20,7 +20,7 @@ pulumi login --local
 
 Pulimi needs to initiate the stack:
 ```
-pulumi stack init
+pulumi stack init example2-dev
 ```
 
 Deploy stack on cloud infrastructure:

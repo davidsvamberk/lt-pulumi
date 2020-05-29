@@ -24,7 +24,7 @@ pulumi login --local
 
 Pulimi needs to initiate the stack:
 ```
-pulumi stack init
+pulumi stack init example3-dev
 ```
 
 Preview stack changes with manually set policy:
