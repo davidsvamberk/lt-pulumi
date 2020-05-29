@@ -1,7 +1,7 @@
 import * as pulumi from "@pulumi/pulumi";
 import * as azure from "@pulumi/azure";
 
-const resourcePrefix = "example2"
+const resourcePrefix = "example3"
 
 // Create an Azure Resource Group
 const resourceGroup = new azure.core.ResourceGroup(resourcePrefix, {
